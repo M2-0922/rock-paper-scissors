@@ -1,0 +1,2 @@
+.container{display:flex;flex-direction:column;align-items:center}.container .button-group{display:flex;flex-direction:row}.container .button-group button{margin:0 4px;border:none;background-color:#000;color:#fff;padding:6px 12px;border-radius:4px}.container .button-group button:hover{background-color:rgba(0,0,0,.5)}.container p{margin-top:12px;border-bottom:1px solid #000}
+/*# sourceMappingURL=style.min.css.map */
